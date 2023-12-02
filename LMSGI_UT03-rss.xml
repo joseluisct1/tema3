@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Últimas ofertas de inmuebles</title>
+        <link>https://www.inmovimiento.es</link>
+        <description> Ultimas ofertas inmobiliarias sobre viviendas en venta o alquiler.</description>
+        <language>es-es</language>
+        <item>
+            <title>Venta de vivienda nueva en calle Antonio Oliver Cartagena</title>
+            <link> https://www.inmovimiento.es/venta-vivienda-nueva-cartagena</link>
+            <guid> https://www.inmovimiento.es/venta-vivienda-nueva-cartagena</guid>
+            <pubDate>Fri, 01 Dec 2023 05:06:23 GMT</pubDate>
+            <description>Se vende vivienda de nueva construccion para
+                estrenar en el centro de Cartagena. 70M2, 2 habitaciones, 1 baño, cocina, salon, terraza. Precio 150.000€ </description>
+        </item>
+        <item>
+            <title>Alquiler vivienda reformada barrio central Cartagena-centro</title>
+            <link> https://www.inmovimiento.es/alquiler-vivienda-reformada-cartagena</link>
+            <guid> https://www.inmovimiento.es/alquiler-vivienda-reformada-cartagena</guid>
+            <pubDate>Fri, 01 Dec 2023 12:05:00 GMT</pubDate>
+            <description>Se alquila vivienda reformada en el centro de Cartagena.
+                90 M2, 3 habitaciones, 2 baños, cocina, salon, terraza. Precio 600€/mes. </description>
+            
+        </item>
+        <item>
+            <title>Venta de vivienda para reformar barrio antiguo Murcia</title>
+            <link> https://www.inmovimiento.es/venta-vivienda-reformar-murcia</link> 
+            <guid> https://www.inmovimiento.es/venta-vivienda-reformar-murcia</guid>
+            <pubDate>Sat, 02 Dec 2023 08:00:01 GMT</pubDate>
+            <description>Se vende vivienda para reformar en el centro de Murcia.
+                80 M2, 2 habitaciones, 1 baño, cocina, salon, terraza. Precio 100.000€ </description>
+            
+        </item>
+        
+        <item>
+            <title>Alquiler de vivienda en zona centrica Cartagena</title>
+            <link> https://www.inmovimiento.es/alquiler-vivienda-centrica-cartagena</link> 
+            <guid> https://www.inmovimiento.es/alquiler-vivienda-centrica-cartagena</guid>
+            <pubDate>Sat, 02 Dec 2023 15:06:23 GMT</pubDate>
+            <description>Se alquila vivienda en el centro de Cartagena.
+                90 M2, 3 habitaciones, 2 baños, cocina, salon, terraza. Precio 900€/mes. </description>
+             
+        </item>
+
+        <item>
+            <title>Venta garaje en La Unión</title>
+            <link> https://www.inmovimiento.es/venta-garaje-launion</link> 
+            <guid> https://www.inmovimiento.es/venta-garaje-launion</guid>
+            <pubDate>Sat, 02 Dec 2023 18:10:15 GMT</pubDate>
+            <description> Se vende garaje en La Unión. 20 M2. Precio 10.000€ </description>   
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,28 @@
+<rss version="2.0">
+    <channel>
+        <title>RFEVB – Resultados de los partidos</title>
+        <link>https://www.rfevoleibol.com/partidos</link>
+        <description> Este canal sirve para transmitir resultados sobre los partidos jugados en la
+            liga Real Federación Española de Voleibol. </description>
+        <language>es-es</language>
+        <item>
+            <title>11/11/2023 – Valencia (1) / Murcia (3)</title>
+            <link>https://www.rfevoleibol.com/partidos/p231111valmur</link>
+            <guid>https://www.rfevoleibol.com/partidos/p231111valmur</guid>
+            <description> El equipo Murciano ganó al valenciano con solvencia. </description>
+        </item>
+        <item>
+            <title>12/11/2023 – Albacete (3) / Alicante (2)</title>
+            <link>https://www.rfevoleibol.com/partidos/p231112albali</link>
+            <guid>https://www.rfevoleibol.com/partidos/p231112albali</guid>
+            <description> Fue un partido muy igualado, pero finalmente ganó el equipo local. </description>
+        </item>
+        <item>
+            <title>16/11/2023 – Almería (2) / Cartagena (3)</title>
+            <link>https://www.rfevoleibol.com/partidos/p231116almcar</link>
+            <guid>https://www.rfevoleibol.com/partidos/p231116almcar</guid>
+            <description> Cartagena llevaba tiempo sin ganar fuera de casa pero hoy ha roto su mala
+                racha. </description>
+        </item>
+    </channel>
+</rss>

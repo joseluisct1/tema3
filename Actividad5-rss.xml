@@ -1,0 +1,35 @@
+<rss version="2.0">
+    <channel>
+        <title>Desarrollo de aplicación para proyecto final</title>
+        <link>https://www.practicasenempresa.es</link>
+        <description> Este canal muestra el progreso de un proyecto de desarrollo de una aplicación
+            destinada a introducir las tareas diarias realizadas durante la formación en centros de
+            trabajo </description>
+        <language>es-es</language>
+        <item>
+            <title>Estructura de la BD ya definida</title>
+            <link>https://www.practicasenempresa.es/proyecto/script_bd</link>
+            <guid>https://www.practicasenempresa.es/proyecto/script_bd</guid>
+            <description> Ya se ha completado el script DDL con todas las tablas, claves, relaciones
+                e índices. También se ha creado el script DML con el volcado de datos inicial. </description>
+        </item>
+        <item>
+            <title>Back-end en pruebas</title>
+            <link>https://www.practicasenempresa.es/proyecto/backend</link>
+            <guid>https://www.practicasenempresa.es/proyecto/backend1</guid>
+            <description> Primera versión del backend para probar... </description>
+        </item>
+        <item>
+            <title>Back-end finalizado y probado</title>
+            <link>https://www.practicasenempresa.es/proyecto/backend</link>
+            <guid>https://www.practicasenempresa.es/proyecto/backend2</guid>
+            <description> Se han completado las correcciones y pruebas del backend... </description>
+        </item>
+        <item>
+            <title>Front-end operativo</title>
+            <link>https://www.practicasenempresa.es/proyecto/frontend</link>
+            <guid>https://www.practicasenempresa.es/proyecto/frontend</guid>
+            <description> Ya disponemos de la parte el front terminada. </description>
+        </item>
+    </channel>
+</rss>
